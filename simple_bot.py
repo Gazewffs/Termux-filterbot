@@ -37,9 +37,9 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 # Set your token directly here:
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your actual token
+BOT_TOKEN = "7763436231:AAG91yNdCBjEivu4FyHzCTNBEhaZUjhuAqA"  # Replace with your actual token
 # Or use environment variable:
-# BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+# BOT_TOKEN = os.environ.get("7763436231:AAG91yNdCBjEivu4FyHzCTNBEhaZUjhuAqA")
 
 PROCESS_TEXT = True                # Process text messages
 PROCESS_CAPTIONS = True            # Process captions in media messages
