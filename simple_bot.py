@@ -37,7 +37,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+BOT_TOKEN = os.environ.get("7763436231:AAG91yNdCBjEivu4FyHzCTNBEhaZUjhuAqA")
 SOURCE_TIMEZONE = "Etc/GMT+2"     # Source timezone of timestamps in messages
 TARGET_TIMEZONE = "Asia/Kolkata"   # Target timezone to convert timestamps to
 PROCESS_TEXT = True                # Process text messages
