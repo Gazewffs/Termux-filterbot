@@ -1,0 +1,41 @@
+# Logs and temporary files
+*.log
+bot.log
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables and secrets
+.env
+.venv
+venv/
+ENV/
+
+# Termux specific
+.termux/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
